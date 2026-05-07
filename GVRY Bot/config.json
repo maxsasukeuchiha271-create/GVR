@@ -1,0 +1,311 @@
+{
+  "bot": {
+    "prefix": ".",
+    "embed_color": "#adcf8b",
+    "footer_text": "Greenville Roleplay Yowe",
+    "footer_icon": "https://cdn.discordapp.com/attachments/1483370284214915154/1499998040298356817/GV-9-modified.png?ex=69f82709&is=69f6d589&hm=79fc222243994a454c74a6dd3d5a868b763b1ac098bc477079546170ef983bb1&"
+  },
+  "channels": {
+    "session_commands_channel_id": "1474541049174036581",
+    "session_commands_channel_id_2": "1474541049174036581",
+    "money_drop_channel_id": "1474541655544823900",
+    "feedback_Channel_id": "1474675112228683807",
+    "citation_logs_channel_id": "0",
+    "mod_logs_channel_id": "1474543900705427700",
+    "command_logs_channel_id": "0"
+  },
+  "roles": {
+    "civilians": "1474664181449097216",
+    "staff_team": "1474665732133486592",
+    "server_booster": "1474233666778562654",
+    "Emergency_Services": "1500528023739302018",
+    "Early_access": "1474676229645799515",
+    "high_command": "1474654932182503536",
+    "overseer": "1474654744487395488",
+    "infraction_1": "1474676687961849897",
+    "infraction_2": "1474676687315664959",
+    "infraction_3": "1474676687961849897",
+    "strike_1": "1474676688494268497",
+    "strike_2": "1474676689102700747",
+    "strike_3": "1474676826071629844",
+    "civilian_suspension": "1474676135521681478",
+    "staff_suspension": "1483652982846263326"
+  },
+  "bloxlinks": {
+    "api_key": "7bb7fc01-0185-4347-abc7-c14f23ab9d49",
+    "group_id": "907735230",
+    "group_lock_active": false
+  },
+  "emojis": {
+    "tick": {
+      "name": "tick",
+      "id": "1500534096286453782",
+      "animated": false
+    },
+    "arrowmove": {
+      "name": "recolored_arrowmove",
+      "id": "1499985868541133038",
+      "animated": true
+    },
+    "stars": {
+      "name": "recolored_recolored_red_stars",
+      "id": "1499985951894802553",
+      "animated": true
+    },
+    "line": {
+      "name": "line",
+      "id": "1499885380739141692",
+      "animated": false
+    },
+    "vehicle": {
+      "name": "GVRY_Vehicle",
+      "id": "1499884802869035069",
+      "animated": false
+    }
+  },
+  "tickets": {
+    "category_id": "1474542069451329586",
+    "panel_channel_id": "1474542100145246299",
+    "staff_role_id": "1474665732133486592",
+    "panel": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Server Support___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038> Welcome to the **Greenville Roleplay Yowe Support Hub!** This channel is here to help you get **assistance quickly and efficiently. Whether you need help with general questions, reporting an issue, or reaching staff, please open the appropriate** ticket below\n**__General Support__**\n> <a:recolored_arrowmove:1499985868541133038> Use this option for any questions about rules, sessions, or server features. You can also request partnerships, claim perks, or inquire about applications here. Please do not use this option to report users\u2014there are specific tickets for that\n\n**__Civilian Report__**\n> <a:recolored_arrowmove:1499985868541133038> Select this option if you need to report a civilian suspected of violating server rules. Be sure to include clear evidence so the High Command team can properly review and take action if necessary. If you need additional help, a staff member can assist you further within the ticket\n\n**__Staff Report__**\n> <a:recolored_arrowmove:1499985868541133038> Use this to report a staff member who may not be following server guidelines. Evidence is required for all reports so the High Command team can investigate accordingly. If needed, request assistance from a High Command member within your ticket\n\n<:blue_replyarrow:1499985515527667883> **Important Information:** Tickets that receive no response within 24 hours will be closed automatically. Please allow approximately 2\u20133 hours for a response, depending on staff availability.",
+      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1499971550479126759/Server_Material-7-modified.png?ex=69f8b71d&is=69f7659d&hm=3e239c03e875babb9c7c8f9855dcdecfa9a5176937d6e31affbbb272b2ee97d5&animated=true"
+    },
+    "types": {
+      "general": {
+        "label": "General Support",
+        "description": "General inquiries and help",
+        "emoji": "<:Pink_faq:1499985459030528132>",
+        "welcome_title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Ticket: General Support___",
+        "welcome_description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:recolored_arrowmove:1499985868541133038>  Please fill out the following format to receive assistance:",
+        "template": "Username:\nQuestion/Concern\nDate:"
+      },
+      "civilian": {
+        "label": "Civilian Report",
+        "description": "Report a civilian member",
+        "emoji": "<:blue_profile:1499985529410818149>",
+        "welcome_title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Ticket: Civilian Report___",
+        "welcome_description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:recolored_arrowmove:1499985868541133038>  Please fill out the following format to receive assistance:",
+        "template": "Username:\nQuestion/Concern\nCivilian Reporting:\nDate:"
+      },
+      "staff": {
+        "label": "Staff Report",
+        "description": "Report a staff member",
+        "emoji": "<:blue_profile:1499985529410818149>",
+        "welcome_title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Ticket: Staff Report___",
+        "welcome_description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:recolored_arrowmove:1499985868541133038>  Please fill out the following format to receive assistance:",
+        "template": "Username:\nQuestion/Concern\nStaff Reporting:\nDate:"
+      }
+    }
+  },
+  "vanity": {
+    "code": "/GVRY",
+    "role_id": "1452886857267417245",
+    "log_channel_id": "1452886966604398727",
+    "remove_role_on_remove": true,
+    "embed_title": "<a:recolored_GVRY_Flying_Star:1499589288344686592> Greenville Roleplay Yowe - Appreciation! <a:recolored_GVRY_Flying_Star:1499589288344686592>",
+    "embed_description": "> <a:recolored_arrowmove:1499985868541133038>  We thank {user} for applying the `{code}` vanity code within your discord status! Due to your **endless** support for our community we have rewarded you with the {role} role!"
+  },
+  "api": {
+    "port": 8080
+  },
+  "emoji_vars": {
+    "arrow": "<a:recolored_arrowmove:1499985868541133038>",
+    "stars": "<a:recolored_recolored_red_stars:1499985951894802553>",
+    "pfp": "<:GVRY_pfp:1500241318465638601>",
+    "tick": "<:tick:1500534096286453782>",
+    "reply": "<:blue_replyarrow:1499985515527667883>",
+    "profile": "<:blue_profile:1499985529410818149>",
+    "faq": "<:Pink_faq:1499985459030528132>"
+  },
+  "embeds": {
+    "startup": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Session Startup___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} is now hosting a **Greenville Roleplay Yowe, Roleplay Session**. Before attending, please ensure you have thoroughly read and understand our Server Material, which contains all essential **Session Rules**. For this session to officially begin, we require **__{required}+__** reactions before preparation.\n\n **Before Attending: Essential Checklist** \n> <a:recolored_arrowmove:1499985868541133038>  Please confirm you are not using any Banned Vehicles unless you possess the appropriate roles. \n> <a:recolored_recolored_red_stars:1499985951894802553> **Verify your Roblox account** with **Greenville Roleplay Yowe Bot** to prevent an unintended kick during the checkpoint process. \n> <a:recolored_arrowmove:1499985868541133038>  Ensure all of your vehicles are registered by using the command `/register` in the dedicated Bot-Inputs Channel.",
+      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1500378543404744744/Server_Material-modified.png?ex=69f837e8&is=69f6e668&hm=7ddbde3fff635fa1a4526d225c3995ab349948655f01663dc187c19f2b997576&animated=true"
+    },
+    "setup": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Roleplay Preparation:___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} is currently setting up their roleplay experience. \n > <a:recolored_arrowmove:1499985868541133038>  Please be patient while the **Staff Team** completes the session setup for a **high-quality roleplay experience.**",
+      "image_url": ""
+    },
+    "early_access": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Early Access___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} has officially released **Early Access** for their roleplay experience. Members with access to the link may now start joining. Upon joining, **please park your vehicle, and wait for further instructions** from the host. \n\n > <a:recolored_arrowmove:1499985868541133038>  Sharing this link with anyone who doesn't have permission will result in immediate **moderation(s).**",
+      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1500378541697536055/Server_Material-2-modified.png?ex=69f837e8&is=69f6e668&hm=f48a5c5397b4ae7520c94e7814a13b3c59d781643a0e081f13c26c15f7563044&animated=true"
+    },
+    "release": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Session Released___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} has officially released their **Roleplay Session**. \n> <a:recolored_arrowmove:1499985868541133038>  Before joining, please ensure you've reviewed our Banned Vehicle List and follow all session guidelines. \n\n **Roleplay Information:** \n\n> <a:recolored_arrowmove:1499985868541133038>  __Session Host:__ {user}\n> <a:recolored_arrowmove:1499985868541133038>  __FRP Speed Limit:__ {frp_speeds}\n> <a:recolored_arrowmove:1499985868541133038>  __Peacetime:__ {peacetime}\n> <a:recolored_arrowmove:1499985868541133038>  __LEO:__ {leo} \n<:blue_replyarrow:1499985515527667883>  Failure to abide session rules may result in moderation(s).",
+      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1500378542113034342/Server_Material-3-modified.png?ex=69f837e8&is=69f6e668&hm=9abb6f9134955c5b7abe206c0ea09cc9d707955d7394c4a278d212736573e734&animated=true"
+    },
+    "reinvites_1": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Re-Invites___",
+      "description": "We require **__{required}+__** reactions for Re-Invites to be sent out, react below!",
+      "image_url": ""
+    },
+    "reinvites_2": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Re-Invites___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} has released **Re-Invites** for this experience. Members who were previously waiting or unable to join may now enter the session. \n\n **Roleplay Information:** \n > <a:recolored_arrowmove:1499985868541133038>  __Session Host__: {user} \n > <a:recolored_arrowmove:1499985868541133038>  __FRP Speed Limit:__ {frp_speeds}\n > <a:recolored_arrowmove:1499985868541133038>  __Peacetime:__ {peacetime}\n > <a:recolored_arrowmove:1499985868541133038>  __LEO:__ {leo} \n  **If you were previously kicked, you may not rejoin unless instructed otherwise by** {user}",
+      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1500378542905491576/Server_Material-5-modified.png?ex=69f837e8&is=69f6e668&hm=112d015e69e8de9f58e6b45262bab20981c13f64a02cbc4b1ecfe6c2070f31f8&animated=true"
+    },
+    "cohost": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Session Co-Host___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} is now **co-hosting** this roleplay session. \n\n> <a:recolored_arrowmove:1499985868541133038>  If the host becomes busy, please refer to {user} for any assistance or support required during the session!",
+      "image_url": ""
+    },
+    "welcome": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___Welcome!___ {stars}",
+      "description": "> {arrow} **__Welcome to Greenville Roleplay Yowe__** {user}!\nPlease verify in <#1474542386649632911> to gain **access to all channels,** go over the rules and join your first **__Greenville Roleplay Yowe session!__** {stars}\n\n> {arrow} Running into trouble? Create a **ticket in <#1474542100145246299>** and wait for a **staff member** to assist you. {stars}",
+      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1499971537720184924/Server_Material-11-modified.png"
+    },
+    "supervisor": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Session Supervisor___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} is now **supervising** this roleplay session. \n\n> <a:recolored_arrowmove:1499985868541133038>  If the host becomes busy, please refer to {user} for any assistance or support required during the session!",
+      "image_url": ""
+    },
+    "regen": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Link Regeneration___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} is now **regenerating** the session link. To maintain an organized queue, please adhere to the following rule(s). Re-Invitations and new links are processed automatically every 20-30 minutes. Any direct requests or \"pings\" to the host regarding invitations or reinvites during this waiting period will result in an immediate mute.",
+      "image_url": ""
+    },
+    "ticket_panel": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Server Support___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038> Welcome to the **Greenville Roleplay Yowe Support Hub!** This channel is here to help you get **assistance quickly and efficiently. Whether you need help with general questions, reporting an issue, or reaching staff, please open the appropriate** ticket below\n**__General Support__**\n> <a:recolored_arrowmove:1499985868541133038> Use this option for any questions about rules, sessions, or server features. You can also request partnerships, claim perks, or inquire about applications here. Please do not use this option to report users\u2014there are specific tickets for that\n\n**__Civilian Report__**\n> <a:recolored_arrowmove:1499985868541133038> Select this option if you need to report a civilian suspected of violating server rules. Be sure to include clear evidence so the High Command team can properly review and take action if necessary. If you need additional help, a staff member can assist you further within the ticket\n\n**__Staff Report__**\n> <a:recolored_arrowmove:1499985868541133038> Use this to report a staff member who may not be following server guidelines. Evidence is required for all reports so the High Command team can investigate accordingly. If needed, request assistance from a High Command member within your ticket\n\n<:blue_replyarrow:1499985515527667883> **Important Information:** Tickets that receive no response within 24 hours will be closed automatically. Please allow approximately 2\u20133 hours for a response, depending on staff availability.",
+      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1499971550479126759/Server_Material-7-modified.png?ex=69f8b71d&is=69f7659d&hm=3e239c03e875babb9c7c8f9855dcdecfa9a5176937d6e31affbbb272b2ee97d5&animated=true"
+    },
+    "ticket_welcome_general": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Ticket: General Support___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:recolored_arrowmove:1499985868541133038>  Please fill out the following format to receive assistance:\n\n```\nUsername:\nQuestion/Concern\nDate:\n```",
+      "image_url": ""
+    },
+    "ticket_welcome_civilian": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Ticket: Civilian Report___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:recolored_arrowmove:1499985868541133038>  Please fill out the following format to receive assistance:\n\n```\nUsername:\nQuestion/Concern\nCivilian Reporting:\nDate:\n```",
+      "image_url": ""
+    },
+    "message_delete": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___Message Deleted___ {stars}",
+      "description": "> {arrow} **__Author:__** {user} ({user_id})\n> {arrow} **__Channel:__** {channel}\n\n**__Content:__**\n{content}",
+      "image_url": ""
+    },
+    "message_edit": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___Message Edited___ {stars}",
+      "description": "> {arrow} **__Author:__** {user} ({user_id})\n> {arrow} **__Channel:__** {channel}\n> {arrow} **__Jump:__** [Jump to Message]({jump_url})\n\n**__Before:__**\n{before}\n\n**__After:__**\n{after}",
+      "image_url": ""
+    },
+    "command_used": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___Command Used___ {stars}",
+      "description": "> {arrow} **__User:__** {user} ({user_id})\n> {arrow} **__Command:__** `/{command}`\n> {arrow} **__Channel:__** {channel}",
+      "image_url": ""
+    },
+    "staff_profile": {
+      "title": "{stars}  Greenville Roleplay Yowe - Employee Profile {stars}",
+      "description": "> {arrow}   **User:** {user}\n> {arrow}   **Roblox:** {roblox_user} ({roblox_id})\n> {arrow}   **Strikes:** `{strikes}`\n> {arrow}   **Hosted Sessions:** `{hosted}`\n> {arrow}   **Co-hosted Sessions:** `{cohosted}`",
+      "image_url": ""
+    },
+    "staff_leaderboard": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___Staff Leaderboard___ {stars}",
+      "description": "{entries}",
+      "image_url": ""
+    },
+    "about": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___About Us___ {stars}",
+      "description": "> {arrow} **Developer:** {developer}\n> {arrow} **Bot Uptime:** `{uptime}`\n> {arrow} **Guilds:** `{guilds}`\n> {arrow} **Library:** `{library}`\n\n> {arrow} **GVRY** is a premier roleplay community dedicated to high-quality Greenville experiences.",
+      "image_url": ""
+    },
+    "member_count": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___Member Count___ {stars}",
+      "description": "> {arrow} Greenville Roleplay Yowe has hit {count} Members! Thank you all for being a part of the community {stars}",
+      "image_url": ""
+    },
+    "infraction_issued": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___Infraction Issued___ {stars}",
+      "description": "> {arrow} **__User:__** {user}\n> {arrow} **__Moderator:__** {moderator}\n> {arrow} **__Reason:__** {reason}\n> {arrow} **__Proof:__** Click Here\n> {arrow} **__IDs:__** {ids}",
+      "image_url": ""
+    },
+    "strike_issued": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___Staff Strike Issued___ {stars}",
+      "description": "> {arrow} **__User:__** {user}\n> {arrow} **__Moderator:__** {moderator}\n> {arrow} **__Reason:__** {reason}\n> {arrow} **__Proof:__** Click Here\n> {arrow} **__IDs:__** {ids}",
+      "image_url": ""
+    },
+    "citation_issued": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___Citation Issued___ {stars}",
+      "description": "{arrow} **Citation Overview**\n> **Issued To:** {user}\n> **Citation ID:** `{id}`\n> **Status:** `Unpaid`\n\n{arrow} **Enforcement**\n> **Issued By:** {moderator}\n> **Fine Amount:** **${price}**\n\n{arrow} **Violation Details**\n> **Reason:** {reason}\n> **Penal Code:** `{penal}`\n\n{line}{line}{line}\n**{vehicle} Vehicle Information**\n> **Make:** {make}\n> **Model:** {model}\n> **Color:** {color}\n> **Plate:** `{plate}`",
+      "image_url": ""
+    },
+    "quota_requirements": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___Staff Quota Requirements___ {stars}",
+      "description": "To maintain an active and professional staff team, all members are required to meet the following weekly quotas:\n\n**Low Command Requirements:**\n> {arrow}  **Minimum Hosted:** `7` Sessions\n> {arrow}  **Minimum Co-Hosted:** `5` Session \n> {arrow}  **Deal With Tickets That Dont Require Middle Command** \n\n**Middle Command Requirements:**\n> {arrow}  **Minimum Hosted:** `5` Sessions\n> {arrow}  **Minimum Co-Hosted:** `5` Sessions\n> {arrow}  **Deal With Tickets That Dont Require High Command** \n\n**High Command Requirements:**\n> {arrow}  **Minimum Hosted:** `2` Sessions\n> {arrow}  **Minimum Co-Hosted:** `4` Sessions\n> {arrow}  **Deal With Tickets That Dont Require Ownership** \n\n**Overseer Requirements:**\n> {arrow}  Oversee High Command & Server Operations\n> {arrow}  Conduct Terminations/Demotions Based On Activity\n> {arrow}  Handle Tickets That Dont Require Executives\n\n**Important Notes:**\n\u2514 Quotas are reset every other Sunday.\n\u2514 Failure to meet quota without an approved LOA may result in a strike, demotion or termination.\n\u2514 Use `/sessionlog` immediately after your session to ensure it is counted.",
+      "image_url": ""
+    },
+    "econ_balance": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___ Account Balance ___ {stars}",
+      "description": "> {arrow} **__Member:__** {user}\n> {arrow} **__Wallet Balance:__** ${wallet}\n> {arrow} **__Bank Balance:__** ${bank}\n> {arrow} **__Total Funds:__** ${total}",
+      "image_url": ""
+    },
+    "econ_work": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___ Work Log ___ {stars}",
+      "description": "> {arrow} You worked hard and earned **${amount}**!",
+      "image_url": ""
+    },
+    "econ_crime_success": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___ Criminal Records ___ {stars}",
+      "description": "> {arrow} **__Success!__**\n> {arrow} You managed to steal **${amount}**.",
+      "image_url": ""
+    },
+    "econ_crime_fail": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___ Criminal Records ___ {stars}",
+      "description": "> {arrow} **__Busted!__**\n> {arrow} You were caught and fined **${amount}**.",
+      "image_url": ""
+    },
+    "econ_deposit": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___ Bank Deposit ___ {stars}",
+      "description": "> {arrow} You deposited **${amount}** into your bank.",
+      "image_url": ""
+    },
+    "econ_withdraw": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___ Bank Withdrawal ___ {stars}",
+      "description": "> {arrow} You withdrew **${amount}** from your bank.",
+      "image_url": ""
+    },
+    "econ_income": {
+      "title": "{stars} _Greenville Roleplay Yowe_ - ___ Income Collection ___ {stars}",
+      "description": "> {arrow} You collected your daily grant of **${amount}**!",
+      "image_url": ""
+    },
+    "over": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Roleplay Conclusion:___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  Thank you for joining the Greenville Roleplay Yowe session, hosted by {user}. We sincerely hope you had an engaging and enjoyable experience throughout. <a:recolored_recolored_red_stars:1499985951894802553> \n\n**Roleplay Conclusion:** \n> <a:recolored_arrowmove:1499985868541133038>  __Roleplay Host:__ {user} \n> <a:recolored_arrowmove:1499985868541133038>  __Start Time:__ {start_time} \n> <a:recolored_arrowmove:1499985868541133038>  __End Time:__ {end_time} \n> <a:recolored_arrowmove:1499985868541133038>  __Notes:__ {notes} \n We strongly encourage members who participated within this session to leave an __honest__ review below using the Feedback option!",
+      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1500378542905491576/Server_Material-5-modified.png?ex=69f837e8&is=69f6e668&hm=112d015e69e8de9f58e6b45262bab20981c13f64a02cbc4b1ecfe6c2070f31f8&animated=true"
+    },
+    "ticket_welcome_staff": {
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Ticket: Staff Report___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:recolored_arrowmove:1499985868541133038>  Please fill out the following format to receive assistance:\n\n```\nUsername:\nQuestion/Concern\nStaff Reporting:\nDate:\n```",
+      "image_url": ""
+    }
+  },
+  "permissions": {
+    "citation": [
+      "1452886850933887169"
+    ],
+    "clearcitation": [
+      "1499570916634398821",
+      "1499570947940679731"
+    ],
+    "infract": [
+      "1474665732133486592"
+    ],
+    "strike": [
+      "1474654932182503536",
+      "1474654744487395488"
+    ],
+    "regen": [
+      "1474665732133486592"
+    ],
+    "quotarequirements": [
+      "1474665732133486592"
+    ]
+  }
+}

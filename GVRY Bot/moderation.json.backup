@@ -1,0 +1,72 @@
+{
+    "915035696778067999": {
+        "infractions": [
+            {
+                "id": "INF-BEE111",
+                "reason": "1",
+                "proof": "1",
+                "moderator_id": 915035696778067999,
+                "timestamp": "2026-04-30 22:05:38",
+                "cleared": true,
+                "cleared_by": 915035696778067999,
+                "cleared_reason": "idk"
+            },
+            {
+                "id": "INF-6028FB",
+                "reason": "hi",
+                "proof": "1",
+                "moderator_id": 915035696778067999,
+                "timestamp": "2026-04-30 22:41:11",
+                "cleared": true,
+                "cleared_by": 915035696778067999,
+                "cleared_reason": "s"
+            },
+            {
+                "id": "INF-2D5C2F",
+                "reason": "hi",
+                "proof": "1",
+                "moderator_id": 915035696778067999,
+                "timestamp": "2026-04-30 22:41:11",
+                "cleared": true,
+                "cleared_by": 915035696778067999,
+                "cleared_reason": "no"
+            },
+            {
+                "id": "INF-D84B91",
+                "reason": "hi",
+                "proof": "1",
+                "moderator_id": 915035696778067999,
+                "timestamp": "2026-04-30 22:41:11",
+                "cleared": true,
+                "cleared_by": 915035696778067999,
+                "cleared_reason": "n"
+            }
+        ],
+        "strikes": [],
+        "bans": []
+    },
+    "755408045781286992": {
+        "infractions": [],
+        "strikes": [],
+        "bans": [
+            {
+                "reason": "chud",
+                "proof": "chud",
+                "moderator_id": 915035696778067999,
+                "timestamp": "2026-04-30 22:03:36"
+            }
+        ]
+    },
+    "734080544085770290": {
+        "infractions": [],
+        "strikes": [],
+        "bans": [
+            {
+                "reason": "test",
+                "proof": "ill send u a new link",
+                "moderator_id": 915035696778067999,
+                "timestamp": "2026-04-30 22:09:35"
+            }
+        ]
+    }
+}
