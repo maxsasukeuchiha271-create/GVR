@@ -28,7 +28,7 @@ class Ban(commands.Cog):
 
         try:
             embed = discord.Embed(
-                title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Banned___ <a:recolored_recolored_red_stars:1499985951894802553>",
+                title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Banned___ <a:recolored_recolored_red_stars:1499985951894802553>",
                 description=f"> <a:recolored_arrowmove:1499985868541133038>  **__Reason:__** {reason}\n> <a:recolored_arrowmove:1499985868541133038>  **__Proof:__** [Click Here]({proof})",
                 color=0xadcf8b,
                 timestamp=discord.utils.utcnow()
@@ -53,7 +53,7 @@ class Ban(commands.Cog):
                 await channel.send(embed=log_embed)
 
         final_embed = discord.Embed(
-            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Success___ <a:recolored_recolored_red_stars:1499985951894802553>",
+            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Success___ <a:recolored_recolored_red_stars:1499985951894802553>",
             description=f"> <a:recolored_arrowmove:1499985868541133038>  Successfully banned **{user}** from the server.",
             color=0xadcf8b,
             timestamp=discord.utils.utcnow()
