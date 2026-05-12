@@ -29,7 +29,7 @@ class Voice(commands.Cog):
                 await voicechat.connect(self_deaf=True)
             
             embed = discord.Embed(
-                title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Voice Channel Joined___ <a:recolored_recolored_red_stars:1499985951894802553>",
+                title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Voice Channel Joined___ <a:recolored_recolored_red_stars:1499985951894802553>",
                 description=f"> <a:recolored_arrowmove:1499985868541133038> Successfully connected to **{voicechat.mention}**.",
                 color=0xadcf8b,
                 timestamp=discord.utils.utcnow()
