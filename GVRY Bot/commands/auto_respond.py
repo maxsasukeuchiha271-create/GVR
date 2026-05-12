@@ -22,7 +22,7 @@ class AutoRespond(commands.Cog):
         embed = discord.Embed(
             description=(
                 f"> {arrow} **Tired Of The Pings?** Simply Mute this channel! __Right click, Or hold down on this channel and click on ‘mute channel’.__ {stars}\n\n"
-                f"> {arrow}  We are currently seeking partners in **__Greenville Roleplay Yowe__**. If you're interested, please feel free to open a **partnership ticket in our ticket channel**<#1474542100145246299>"
+                f"> {arrow}  We are currently seeking partners in **__Greenville Roleplay Legacy__**. If you're interested, please feel free to open a **partnership ticket in our ticket channel**<#1474542100145246299>"
             ),
             color=0xadcf8b
         )
