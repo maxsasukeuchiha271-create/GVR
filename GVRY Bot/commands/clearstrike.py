@@ -53,7 +53,7 @@ class ClearStrikes(commands.Cog):
             if role: await user.add_roles(role)
 
         embed = discord.Embed(
-            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Staff Strike Cleared___ <a:recolored_recolored_red_stars:1499985951894802553>",
+            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Staff Strike Cleared___ <a:recolored_recolored_red_stars:1499985951894802553>",
             description=f"> <a:recolored_arrowmove:1499985868541133038>  **__User:__** {user.mention}\n> <a:recolored_arrowmove:1499985868541133038>  **__Strike ID:__** `{strike_id.upper()}`\n> <a:recolored_arrowmove:1499985868541133038>  **__Reason:__** {reason}",
             color=0xadcf8b,
             timestamp=discord.utils.utcnow()
