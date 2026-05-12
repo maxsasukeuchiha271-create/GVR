@@ -8,7 +8,7 @@ class About(commands.Cog):
         self.bot = bot
         self.start_time = time.time()
 
-    @app_commands.command(name="about", description="View information about Greenville Roleplay Yowe and the bot")
+    @app_commands.command(name="about", description="View information about Greenville Roleplay Legacy and the bot")
     async def about(self, interaction: discord.Interaction):
         uptime_seconds = int(time.time() - self.start_time)
         hours, remainder = divmod(uptime_seconds, 3600)
@@ -16,7 +16,7 @@ class About(commands.Cog):
         uptime_str = f"{hours}h {minutes}m {seconds}s"
         
         embed = self.bot.format_embed(self.bot.config, 'about',
-            developer="<@915035696778067999>",
+            developer="<@1022692130512191518>",
             uptime=uptime_str,
             guilds=len(self.bot.guilds),
             library=f"discord.py {discord.__version__}"
