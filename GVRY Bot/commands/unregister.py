@@ -27,7 +27,7 @@ class Unregister(commands.Cog):
         embed_color = 0xadcf8b
 
         embed = discord.Embed(
-            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Vehicle Unregistered___ <a:recolored_recolored_red_stars:1499985951894802553>",
+            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Vehicle Unregistered___ <a:recolored_recolored_red_stars:1499985951894802553>",
             description=f"> <a:recolored_arrowmove:1499985868541133038>  The vehicle with license plate `{plate.upper()}` has been successfully removed from your profile.",
             color=embed_color,
             timestamp=discord.utils.utcnow()
