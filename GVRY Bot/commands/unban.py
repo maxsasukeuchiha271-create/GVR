@@ -24,7 +24,7 @@ class Unban(commands.Cog):
             channel = interaction.guild.get_channel(int(log_channel_id))
             if channel:
                 log_embed = discord.Embed( 
-                    title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Unban Log___ <a:recolored_recolored_red_stars:1499985951894802553>",
+                    title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Unban Log___ <a:recolored_recolored_red_stars:1499985951894802553>",
                     description=f"> <a:recolored_arrowmove:1499985868541133038>  **__User:__** {user} ({user.id})\n> <a:recolored_arrowmove:1499985868541133038>  **__Moderator:__** {interaction.user.mention}",
                     color=0xadcf8b,
                     timestamp=discord.utils.utcnow()
@@ -33,7 +33,7 @@ class Unban(commands.Cog):
                 await channel.send(embed=log_embed)
 
         final_embed = discord.Embed(
-            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Success___ <a:recolored_recolored_red_stars:1499985951894802553>",
+            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Success___ <a:recolored_recolored_red_stars:1499985951894802553>",
             description=f"> <a:recolored_arrowmove:1499985868541133038>  Successfully unbanned **{user}** from the server.",
             color=0xadcf8b,
             timestamp=discord.utils.utcnow()
