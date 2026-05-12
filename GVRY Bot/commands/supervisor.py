@@ -39,7 +39,7 @@ class Supervisor(commands.Cog):
 
         ecfg = interaction.client.config.get('embeds', {}).get('supervisor', {})
         embed = discord.Embed(
-            title=ecfg.get('title', '_Greenville Roleplay Yowe_ - ___Session Supervisor___'),
+            title=ecfg.get('title', '_Greenville Roleplay Legacy_ - ___Session Supervisor___'),
             description=format_embed(ecfg.get('description', ''), interaction.client, user=interaction.user.mention),
             color=0xadcf8b
         )
