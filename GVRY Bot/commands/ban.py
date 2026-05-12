@@ -28,7 +28,7 @@ class Ban(commands.Cog):
 
         try:
             embed = discord.Embed(
-                title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Banned___ <a:recolored_recolored_red_stars:1499985951894802553>",
+                title="<a:BlueButterflies:1497980075008852028> _Greenville Roleplay Legacy_ - ___Banned___ <a:BlueButterflies:1497980075008852028>",
                 description=f"> <a:recolored_arrowmove:1499985868541133038>  **__Reason:__** {reason}\n> <a:recolored_arrowmove:1499985868541133038>  **__Proof:__** [Click Here]({proof})",
                 color=0xadcf8b,
                 timestamp=discord.utils.utcnow()
@@ -44,7 +44,7 @@ class Ban(commands.Cog):
             channel = interaction.guild.get_channel(int(log_channel_id))
             if channel:
                 log_embed = discord.Embed( 
-                    title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Ban Log___ <a:recolored_recolored_red_stars:1499985951894802553>",
+                    title="<a:BlueButterflies:1497980075008852028> _Greenville Roleplay Yowe_ - ___Ban Log___ <a:BlueButterflies:1497980075008852028>",
                     description=f"> <a:recolored_arrowmove:1499985868541133038>  **__User:__** {user} ({user.id})\n> <a:recolored_arrowmove:1499985868541133038>  **__Moderator:__** {interaction.user.mention}\n> <a:recolored_arrowmove:1499985868541133038>  **__Reason:__** {reason}\n> <a:recolored_arrowmove:1499985868541133038>  **__Proof:__** [Click Here]({proof})",
                     color=0xadcf8b,
                     timestamp=discord.utils.utcnow()
@@ -53,7 +53,7 @@ class Ban(commands.Cog):
                 await channel.send(embed=log_embed)
 
         final_embed = discord.Embed(
-            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Success___ <a:recolored_recolored_red_stars:1499985951894802553>",
+            title="<a:BlueButterflies:1497980075008852028> _Greenville Roleplay Legacy_ - ___Success___ <a:BlueButterflies:1497980075008852028>",
             description=f"> <a:recolored_arrowmove:1499985868541133038>  Successfully banned **{user}** from the server.",
             color=0xadcf8b,
             timestamp=discord.utils.utcnow()
