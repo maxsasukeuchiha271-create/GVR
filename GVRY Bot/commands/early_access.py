@@ -123,7 +123,7 @@ class EarlyAccess(commands.Cog):
 
         ecfg = _embed_cfg(interaction.client, 'early_access')
         embed = discord.Embed(
-            title=ecfg.get('title', '_Greenville Roleplay Yowe_ - ___Early Access___'),
+            title=ecfg.get('title', '_Greenville Roleplay Legacy_ - ___Early Access___'),
             description=format_embed(ecfg.get('description', ''), interaction.client, user=interaction.user.mention),
             color=0xadcf8b
         )
