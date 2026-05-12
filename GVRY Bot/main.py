@@ -20,8 +20,8 @@ class BufferHandler(logging.Handler):
 
 # Load environment variables
 load_dotenv()
-TOKEN = os.getenv('MTUwMTc2NzMxMjQ5NDAzNTA4Ng.GVxaW2.6Th0gdt5kUpy6vuG1SNDzEVeSpY6PhQtas_4rw')
-GUILD_ID = os.getenv('1502684125469999214')
+TOKEN = os.getenv('DISCORD_TOKEN')
+GUILD_ID = os.getenv('GUILD_ID')
 BASE_DIR = Path(__file__).resolve().parent
 
 def load_config():
