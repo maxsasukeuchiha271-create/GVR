@@ -16,7 +16,7 @@ class MemberCount(commands.Cog):
         total = guild.member_count
 
         embed = discord.Embed(
-            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Member Count___ <a:recolored_recolored_red_stars:1499985951894802553>",
+            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Member Count___ <a:recolored_recolored_red_stars:1499985951894802553>",
             color=0xadcf8b,
             timestamp=discord.utils.utcnow()
         )
@@ -24,7 +24,7 @@ class MemberCount(commands.Cog):
         arrow = "<a:recolored_arrowmove:1499985868541133038>"
         stars = "<a:recolored_recolored_red_stars:1499985951894802553>"
         
-        embed.description = f"> {arrow} Greenville Roleplay Yowe has hit **{total}** Members! Thank you all for being a part of the community {stars}"
+        embed.description = f"> {arrow} Greenville Roleplay Legacy has hit **{total}** Members! Thank you all for being a part of the community {stars}"
         
         if guild.icon:
             embed.set_thumbnail(url=guild.icon.url)
