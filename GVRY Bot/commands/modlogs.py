@@ -22,7 +22,7 @@ class Modlogs(commands.Cog):
             return await interaction.response.send_message(f"No moderation logs for {user.display_name}.", ephemeral=True)
 
         embed = discord.Embed(
-            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Moderation Logs___ <a:recolored_recolored_red_stars:1499985951894802553>",
+            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Moderation Logs___ <a:recolored_recolored_red_stars:1499985951894802553>",
             description=f"> <a:recolored_arrowmove:1499985868541133038>  **__User:__** {user.mention}",
             color=0xadcf8b,
             timestamp=discord.utils.utcnow()
