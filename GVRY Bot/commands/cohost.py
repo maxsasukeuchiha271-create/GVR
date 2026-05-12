@@ -39,7 +39,7 @@ class Cohost(commands.Cog):
 
         ecfg = interaction.client.config.get('embeds', {}).get('cohost', {})
         embed = discord.Embed(
-            title=ecfg.get('title', '_Greenville Roleplay Yowe_ - ___Session Co-Host___'),
+            title=ecfg.get('title', '_Greenville Roleplay Legacy_ - ___Session Co-Host___'),
             description=format_embed(ecfg.get('description', ''), interaction.client, user=interaction.user.mention),
             color=0xadcf8b
         )
