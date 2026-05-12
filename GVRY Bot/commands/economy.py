@@ -28,7 +28,7 @@ class MoneyDropView(discord.ui.View):
         embed_color = 0xadcf8b
 
         embed = discord.Embed(
-            title="<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Money Drop Claimed___",
+            title="<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Legacy_ - ___Money Drop Claimed___",
             description=f"> <a:recolored_arrowmove:1499985868541133038>  {interaction.user.mention} has successfully claimed the **${self.amount:,}** money drop!",
             color=embed_color
         )
@@ -60,7 +60,7 @@ class Economy(commands.Cog):
         color = 0xadcf8b
 
         embed = discord.Embed(
-            title=f"<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___ {title} ___ <a:recolored_recolored_red_stars:1499985951894802553>",
+            title=f"<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___ {title} ___ <a:recolored_recolored_red_stars:1499985951894802553>",
             description=description,
             color=color,
             timestamp=discord.utils.utcnow()
