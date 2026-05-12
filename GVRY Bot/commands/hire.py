@@ -22,7 +22,7 @@ class HireRoleSelect(discord.ui.Select):
             await self.target_user.add_roles(role)
             
             embed = discord.Embed(
-                title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Hiring___ <a:recolored_recolored_red_stars:1499985951894802553>",
+                title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Hiring___ <a:recolored_recolored_red_stars:1499985951894802553>",
                 description=f"> <a:recolored_arrowmove:1499985868541133038>  Successfully assigned {role.mention} to {self.target_user.mention}.",
                 color=0xadcf8b
             )
