@@ -88,7 +88,7 @@ class Strike(commands.Cog):
                     await channel.send(embed=log_embed)
 
             followup_embed = discord.Embed(
-                title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Success___ <a:recolored_recolored_red_stars:1499985951894802553>",
+                title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Success___ <a:recolored_recolored_red_stars:1499985951894802553>",
                 description=f"> <a:recolored_arrowmove:1499985868541133038>  Successfully issued **{count}** staff strike(s) to {user.mention}.",
                 color=0xadcf8b
             )
