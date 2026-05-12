@@ -10,7 +10,7 @@ class Vanity(commands.Cog):
             'code': '/GVRY',
             'role_id': '1452886857267417245',
             'log_channel_id': '1452886966604398727',
-            'embed_title': 'Greenville Roleplay Yowe - Appreciation!',
+            'embed_title': 'Greenville Roleplay Legacy - Appreciation!',
             'embed_description': '> We thank {user} for applying the `{code}` vanity code! You have been rewarded with the {role} role!',
             'remove_role_on_remove': True
         })
