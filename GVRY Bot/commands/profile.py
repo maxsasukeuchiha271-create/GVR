@@ -21,7 +21,7 @@ class VehicleButton(discord.ui.Button):
         embed_color = 0xadcf8b
 
         embed = discord.Embed(
-            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___Registered Vehicles___ <a:recolored_recolored_red_stars:1499985951894802553>",
+            title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___Registered Vehicles___ <a:recolored_recolored_red_stars:1499985951894802553>",
             description=f"**Profile:** {self.user.mention}",
             color=embed_color,
             timestamp=discord.utils.utcnow()
