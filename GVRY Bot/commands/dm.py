@@ -12,7 +12,7 @@ class DM(commands.Cog):
     async def dm(self, interaction: discord.Interaction, user: discord.User, message: str):
         try:
             embed = discord.Embed(
-                title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Yowe_ - ___New Message___ <a:recolored_recolored_red_stars:1499985951894802553>",
+                title="<a:recolored_recolored_red_stars:1499985951894802553> _Greenville Roleplay Legacy_ - ___New Message___ <a:recolored_recolored_red_stars:1499985951894802553>",
                 description=f"> <a:recolored_arrowmove:1499985868541133038>  {message}",
                 color=0xadcf8b,
                 # timestamp=discord.utils.utcnow()
