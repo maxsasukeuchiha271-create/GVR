@@ -36,7 +36,7 @@ class Startup(commands.Cog):
 
         ecfg = _embed_cfg(ctx.client, 'startup')
         embed = discord.Embed(
-            title=ecfg.get('title', '_Greenville Roleplay Yowe_ - ___Session Startup___'),
+            title=ecfg.get('title', '_Greenville Roleplay Legacy_ - ___Session Startup___'),
             description=format_embed(ecfg.get('description', ''), ctx.client, user=ctx.user.mention, required=required_reactions),
             color=0xadcf8b
         )
@@ -98,7 +98,7 @@ class Startup(commands.Cog):
 
         ecfg = _embed_cfg(self.bot, 'setup')
         embed = discord.Embed(
-            title=ecfg.get('title', '_Greenville Roleplay Yowe_ - ___Roleplay Preparation:___'),
+            title=ecfg.get('title', '_Greenville Roleplay Legacy_ - ___Roleplay Preparation:___'),
             description=format_embed(ecfg.get('description', ''), self.bot, user=data['user']),
             color=0xadcf8b
         )
