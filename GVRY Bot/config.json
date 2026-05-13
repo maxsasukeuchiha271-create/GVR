@@ -118,13 +118,12 @@
     "reply": "<a:BlueButterflies:1497980075008852028>",
     "profile": "<a:BlueButterflies:1497980075008852028>",
     "faq": "<a:BlueButterflies:1497980075008852028>"
-  },
-  "embeds": {
-    "startup": {
-      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Session Startup___",
-      "description": "> <a:BlueButterflies:1497980075008852028>   {user} is now hosting a **Greenville Roleplay Legacy, Roleplay Session**. Before attending, please ensure you have thoroughly read and understand our Server Material, which contains all essential **Session Rules**. For this session to officially begin, we require **__{required}+__** reactions before preparation.\n\n **Before Attending: Essential Checklist** \n> <a:BlueButterflies:1497980075008852028>   Please confirm you are not using any Banned Vehicles unless you possess the appropriate roles. \n> <a:BlueButterflies:1497980075008852028>  **Verify your Roblox account** with **Greenville Roleplay Legacy Bot** to prevent an unintended kick during the checkpoint process. \n> <a:BlueButterflies:1497980075008852028>   Ensure all of your vehicles are registered by using the command `/register` in the dedicated Bot-Inputs Channel.",
-      "description": "> <a:BlueButterflies:1497980075008852028>  {user} is currently setting up their roleplay experience. \n > <a:BlueButterflies:1497980075008852028>  Please be patient while the **Staff Team** completes the session setup for a **high-quality roleplay experience.**",
-      "image_url": "" 
+   },
+   "embeds": {
+     "startup" : {
+     "title" : "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Session Startup___" ,
+     "description" : "> <a:BlueButterflies:1497980075008852028>  {user} is currently setting up their roleplay experience. \n > <a:BlueButterflies:1497980075008852028>  Please be patient while the **Staff Team** completes the session setup for a **high-quality roleplay experience.**" ,
+     "image_url" : ""
     },
     "early_access": {
       "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Early Access___",
