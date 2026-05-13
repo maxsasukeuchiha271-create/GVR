@@ -159,28 +159,28 @@
       "image_url": "https://images-ext-1.discordapp.net/external/vRJDtVR4TNNHB3_bwOQLJWFahTAUX983-FJ0Dbniw_E/https/www.image2url.com/r2/default/images/1778442737590-1a210443-9d79-4b07-83b4-3ec89aa5f27f.png?format=webp&quality=lossless&width=1391&height=856"
     },
     "supervisor": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Legacy_ - ___Session Supervisor___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} is now **supervising** this roleplay session. \n\n> <a:recolored_arrowmove:1499985868541133038>  If the host becomes busy, please refer to {user} for any assistance or support required during the session!",
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Session Supervisor___",
+      "description": "> <a:BlueButterflies:1497980075008852028>  {user} is now **supervising** this roleplay session. \n\n> <a:BlueButterflies:1497980075008852028>  If the host becomes busy, please refer to {user} for any assistance or support required during the session!",
       "image_url": ""
     },
     "regen": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Legacy_ - ___Link Regeneration___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} is now **regenerating** the session link. To maintain an organized queue, please adhere to the following rule(s). Re-Invitations and new links are processed automatically every 20-30 minutes. Any direct requests or \"pings\" to the host regarding invitations or reinvites during this waiting period will result in an immediate mute.",
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Link Regeneration___",
+      "description": "> <a:BlueButterflies:1497980075008852028>  {user} is now **regenerating** the session link. To maintain an organized queue, please adhere to the following rule(s). Re-Invitations and new links are processed automatically every 20-30 minutes. Any direct requests or \"pings\" to the host regarding invitations or reinvites during this waiting period will result in an immediate mute.",
       "image_url": ""
     },
     "ticket_panel": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Legacy_ - ___Server Support___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038> Welcome to the **Greenville Roleplay Yowe Support Hub!** This channel is here to help you get **assistance quickly and efficiently. Whether you need help with general questions, reporting an issue, or reaching staff, please open the appropriate** ticket below\n**__General Support__**\n> <a:recolored_arrowmove:1499985868541133038> Use this option for any questions about rules, sessions, or server features. You can also request partnerships, claim perks, or inquire about applications here. Please do not use this option to report users\u2014there are specific tickets for that\n\n**__Civilian Report__**\n> <a:recolored_arrowmove:1499985868541133038> Select this option if you need to report a civilian suspected of violating server rules. Be sure to include clear evidence so the High Command team can properly review and take action if necessary. If you need additional help, a staff member can assist you further within the ticket\n\n**__Staff Report__**\n> <a:recolored_arrowmove:1499985868541133038> Use this to report a staff member who may not be following server guidelines. Evidence is required for all reports so the High Command team can investigate accordingly. If needed, request assistance from a High Command member within your ticket\n\n<:blue_replyarrow:1499985515527667883> **Important Information:** Tickets that receive no response within 24 hours will be closed automatically. Please allow approximately 2\u20133 hours for a response, depending on staff availability.",
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Server Support___",
+      "description": "> <a:BlueButterflies:1497980075008852028> Welcome to the **Greenville Roleplay Yowe Support Hub!** This channel is here to help you get **assistance quickly and efficiently. Whether you need help with general questions, reporting an issue, or reaching staff, please open the appropriate** ticket below\n**__General Support__**\n> <a:recolored_arrowmove:1499985868541133038> Use this option for any questions about rules, sessions, or server features. You can also request partnerships, claim perks, or inquire about applications here. Please do not use this option to report users\u2014there are specific tickets for that\n\n**__Civilian Report__**\n> <a:recolored_arrowmove:1499985868541133038> Select this option if you need to report a civilian suspected of violating server rules. Be sure to include clear evidence so the High Command team can properly review and take action if necessary. If you need additional help, a staff member can assist you further within the ticket\n\n**__Staff Report__**\n> <a:recolored_arrowmove:1499985868541133038> Use this to report a staff member who may not be following server guidelines. Evidence is required for all reports so the High Command team can investigate accordingly. If needed, request assistance from a High Command member within your ticket\n\n<:blue_replyarrow:1499985515527667883> **Important Information:** Tickets that receive no response within 24 hours will be closed automatically. Please allow approximately 2\u20133 hours for a response, depending on staff availability.",
       "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1499971550479126759/Server_Material-7-modified.png?ex=69f8b71d&is=69f7659d&hm=3e239c03e875babb9c7c8f9855dcdecfa9a5176937d6e31affbbb272b2ee97d5&animated=true"
     },
     "ticket_welcome_general": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Legacy_ - ___Ticket: General Support___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:recolored_arrowmove:1499985868541133038>  Please fill out the following format to receive assistance:\n\n```\nUsername:\nQuestion/Concern\nDate:\n```",
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Ticket: General Support___",
+      "description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:BlueButterflies:1497980075008852028>  Please fill out the following format to receive assistance:\n\n```\nUsername:\nQuestion/Concern\nDate:\n```",
       "image_url": ""
     },
     "ticket_welcome_civilian": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Legacy_ - ___Ticket: Civilian Report___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:recolored_arrowmove:1499985868541133038>  Please fill out the following format to receive assistance:\n\n```\nUsername:\nQuestion/Concern\nCivilian Reporting:\nDate:\n```",
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Ticket: Civilian Report___",
+      "description": "> <a:BlueButterflies:1497980075008852028>  Welcome {user} to your support ticket. \n> <a:BlueButterflies:1497980075008852028>  Please fill out the following format to receive assistance:\n\n```\nUsername:\nQuestion/Concern\nCivilian Reporting:\nDate:\n```",
       "image_url": ""
     },
     "message_delete": {
@@ -274,13 +274,13 @@
       "image_url": ""
     },
     "over": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Legacy_ - ___Roleplay Conclusion:___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038>  Thank you for joining the Greenville Roleplay Yowe session, hosted by {user}. We sincerely hope you had an engaging and enjoyable experience throughout. <a:recolored_recolored_red_stars:1499985951894802553> \n\n**Roleplay Conclusion:** \n> <a:recolored_arrowmove:1499985868541133038>  __Roleplay Host:__ {user} \n> <a:recolored_arrowmove:1499985868541133038>  __Start Time:__ {start_time} \n> <a:recolored_arrowmove:1499985868541133038>  __End Time:__ {end_time} \n> <a:recolored_arrowmove:1499985868541133038>  __Notes:__ {notes} \n We strongly encourage members who participated within this session to leave an __honest__ review below using the Feedback option!",
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Roleplay Conclusion:___",
+      "description": "> <a:BlueButterflies:1497980075008852028>  Thank you for joining the Greenville Roleplay Leagcy session, hosted by {user}. We sincerely hope you had an engaging and enjoyable experience throughout. <a:BlueButterflies:1497980075008852028> \n\n**Roleplay Conclusion:** \n> <a:BlueButterflies:1497980075008852028>  __Roleplay Host:__ {user} \n> <a:BlueButterflies:1497980075008852028>  __Start Time:__ {start_time} \n> <a:BlueButterflies:1497980075008852028>  __End Time:__ {end_time} \n> <a:BlueButterflies:1497980075008852028>  __Notes:__ {notes} \n We strongly encourage members who participated within this session to leave an __honest__ review below using the Feedback option!",
       "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1500378542905491576/Server_Material-5-modified.png?ex=69f837e8&is=69f6e668&hm=112d015e69e8de9f58e6b45262bab20981c13f64a02cbc4b1ecfe6c2070f31f8&animated=true"
     },
     "ticket_welcome_staff": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Legacy_ - ___Ticket: Staff Report___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:recolored_arrowmove:1499985868541133038>  Please fill out the following format to receive assistance:\n\n```\nUsername:\nQuestion/Concern\nStaff Reporting:\nDate:\n```",
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Ticket: Staff Report___",
+      "description": "> <a:BlueButterflies:1497980075008852028>  Welcome {user} to your support ticket. \n> <a:BlueButterflies:1497980075008852028>  Please fill out the following format to receive assistance:\n\n```\nUsername:\nQuestion/Concern\nStaff Reporting:\nDate:\n```",
       "image_url": ""
     }
   },
