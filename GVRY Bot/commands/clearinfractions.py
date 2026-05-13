@@ -47,7 +47,7 @@ class ClearInfractions(commands.Cog):
         embed = discord.Embed(
             title="<a:BlueButterflies:1497980075008852028> _Greenville Roleplay Legacy_ - ___Infraction Cleared___ <a:BlueButterflies:1497980075008852028>",
             description=f"> <a:BlueButterflies:1497980075008852028>  **__User:__** {user.mention}\n> <a:BlueButterflies:1497980075008852028>  **__Infraction ID:__** `{infraction_id.upper()}`\n> <a:BlueButterflies:1497980075008852028>  **__Reason:__** {reason}",
-            color=0xadcf8b,
+            color=0x8d021f,
             timestamp=discord.utils.utcnow()
         )
         embed.set_footer(
