@@ -44,7 +44,7 @@ class Ban(commands.Cog):
             channel = interaction.guild.get_channel(int(log_channel_id))
             if channel:
                 log_embed = discord.Embed( 
-                    title="<a:BlueButterflies:1497980075008852028> _Greenville Roleplay Yowe_ - ___Ban Log___ <a:BlueButterflies:1497980075008852028>",
+                    title="<a:BlueButterflies:1497980075008852028> _Greenville Roleplay Legacy_ - ___Ban Log___ <a:BlueButterflies:1497980075008852028>",
                     description=f"> <a:BlueButterflies:1497980075008852028>  **__User:__** {user} ({user.id})\n> <a:BlueButterflies:1497980075008852028>  **__Moderator:__** {interaction.user.mention}\n> <a:recolored_arrowmove:1499985868541133038>  **__Reason:__** {reason}\n> <a:recolored_arrowmove:1499985868541133038>  **__Proof:__** [Click Here]({proof})",
                     color=0xadcf8b,
                     timestamp=discord.utils.utcnow()
