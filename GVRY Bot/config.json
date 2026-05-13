@@ -2,34 +2,34 @@
   "bot": {
     "prefix": ".",
     "embed_color": "#adcf8b",
-    "footer_text": "Greenville Roleplay Yowe",
-    "footer_icon": "https://cdn.discordapp.com/attachments/1483370284214915154/1499998040298356817/GV-9-modified.png?ex=69f82709&is=69f6d589&hm=79fc222243994a454c74a6dd3d5a868b763b1ac098bc477079546170ef983bb1&"
+    "footer_text": "Greenville Roleplay Legacy",
+    "footer_icon": "https://media.discordapp.net/attachments/1503016648620245052/1503016827654115618/IMG_1984.png?ex=6a047400&is=6a032280&hm=771566a28fa1b90eb2f64d45e876bf2a1f5b703015e3db29e95b5b24bfc23c3b&=&format=webp&quality=lossless
   },
   "channels": {
-    "session_commands_channel_id": "1474541049174036581",
-    "session_commands_channel_id_2": "1474541049174036581",
-    "money_drop_channel_id": "1474541655544823900",
-    "feedback_Channel_id": "1474675112228683807",
-    "citation_logs_channel_id": "0",
-    "mod_logs_channel_id": "1474543900705427700",
+    "session_commands_channel_id": "1502684126187356307",
+    "session_commands_channel_id_2": "1502684126187356307",
+    "money_drop_channel_id": "1502684126187356302",
+    "feedback_Channel_id": "1502684126187356302",
+    "citation_logs_channel_id": "1503914030635548702",
+    "mod_logs_channel_id": "1502781539669512294",
     "command_logs_channel_id": "0"
   },
   "roles": {
-    "civilians": "1474664181449097216",
-    "staff_team": "1474665732133486592",
-    "server_booster": "1474233666778562654",
-    "Emergency_Services": "1500528023739302018",
-    "Early_access": "1474676229645799515",
-    "high_command": "1474654932182503536",
-    "overseer": "1474654744487395488",
-    "infraction_1": "1474676687961849897",
-    "infraction_2": "1474676687315664959",
-    "infraction_3": "1474676687961849897",
-    "strike_1": "1474676688494268497",
-    "strike_2": "1474676689102700747",
-    "strike_3": "1474676826071629844",
-    "civilian_suspension": "1474676135521681478",
-    "staff_suspension": "1483652982846263326"
+    "civilians": "1502684125482451066",
+    "staff_team": "1502772079953711275",
+    "server_booster": "1502808918764814536",
+    "Emergency_Services": "1502684125482451068",
+    "Early_access": "1502684125482451065",
+    "high_command": "1502684125507616965",
+    "overseer": "1502880813165838408",
+    "infraction_1": "1502684125469999222",
+    "infraction_2": "1502684125469999218",
+    "infraction_3": "1502684125469999217",
+    "strike_1": "1502684125469999219",
+    "strike_2": "1502684125469999218",
+    "strike_3": "1502684125469999217",
+    "civilian_suspension": "1502684125469999215",
+    "staff_suspension": "1502684125469999216"
   },
   "bloxlinks": {
     "api_key": "7bb7fc01-0185-4347-abc7-c14f23ab9d49",
@@ -39,27 +39,27 @@
   "emojis": {
     "tick": {
       "name": "tick",
-      "id": "1500534096286453782",
+      "id": "1497980075008852028>",
       "animated": false
     },
     "arrowmove": {
       "name": "recolored_arrowmove",
-      "id": "1499985868541133038",
+      "id": "1497987337315946706>",
       "animated": true
     },
     "stars": {
       "name": "recolored_recolored_red_stars",
-      "id": "1499985951894802553",
+      "id": "1497980075008852028>",
       "animated": true
     },
     "line": {
       "name": "line",
-      "id": "1499885380739141692",
+      "id": "1502780119859859648>",
       "animated": false
     },
     "vehicle": {
-      "name": "GVRY_Vehicle",
-      "id": "1499884802869035069",
+      "name": "GVRL_Vehicle",
+      "id": "1502780119859859648",
       "animated": false
     }
   },
@@ -68,97 +68,95 @@
     "panel_channel_id": "1474542100145246299",
     "staff_role_id": "1474665732133486592",
     "panel": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Server Support___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038> Welcome to the **Greenville Roleplay Yowe Support Hub!** This channel is here to help you get **assistance quickly and efficiently. Whether you need help with general questions, reporting an issue, or reaching staff, please open the appropriate** ticket below\n**__General Support__**\n> <a:recolored_arrowmove:1499985868541133038> Use this option for any questions about rules, sessions, or server features. You can also request partnerships, claim perks, or inquire about applications here. Please do not use this option to report users\u2014there are specific tickets for that\n\n**__Civilian Report__**\n> <a:recolored_arrowmove:1499985868541133038> Select this option if you need to report a civilian suspected of violating server rules. Be sure to include clear evidence so the High Command team can properly review and take action if necessary. If you need additional help, a staff member can assist you further within the ticket\n\n**__Staff Report__**\n> <a:recolored_arrowmove:1499985868541133038> Use this to report a staff member who may not be following server guidelines. Evidence is required for all reports so the High Command team can investigate accordingly. If needed, request assistance from a High Command member within your ticket\n\n<:blue_replyarrow:1499985515527667883> **Important Information:** Tickets that receive no response within 24 hours will be closed automatically. Please allow approximately 2\u20133 hours for a response, depending on staff availability.",
-      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1499971550479126759/Server_Material-7-modified.png?ex=69f8b71d&is=69f7659d&hm=3e239c03e875babb9c7c8f9855dcdecfa9a5176937d6e31affbbb272b2ee97d5&animated=true"
+      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Legacy_ - ___Server Support___",
+      "description": "> <a:BlueButterflies:1497980075008852028> Welcome to the **Greenville Roleplay Legacy Support Hub!** This channel is here to help you get **assistance quickly and efficiently. Whether you need help with general questions, reporting an issue, or reaching staff, please open the appropriate** ticket below\n**__General Support__**\n> <a:recolored_arrowmove:1499985868541133038> Use this option for any questions about rules, sessions, or server features. You can also request partnerships, claim perks, or inquire about applications here. Please do not use this option to report users\u2014there are specific tickets for that\n\n**__Civilian Report__**\n> <a:recolored_arrowmove:1499985868541133038> Select this option if you need to report a civilian suspected of violating server rules. Be sure to include clear evidence so the High Command team can properly review and take action if necessary. If you need additional help, a staff member can assist you further within the ticket\n\n**__Staff Report__**\n> <a:recolored_arrowmove:1499985868541133038> Use this to report a staff member who may not be following server guidelines. Evidence is required for all reports so the High Command team can investigate accordingly. If needed, request assistance from a High Command member within your ticket\n\n<:blue_replyarrow:1499985515527667883> **Important Information:** Tickets that receive no response within 24 hours will be closed automatically. Please allow approximately 2\u20133 hours for a response, depending on staff availability.",
+      "image_url": "https://media.discordapp.net/attachments/1503016648620245052/1503016845521977525/IMG_1986.png?ex=6a047404&is=6a032284&hm=170916fe74d1d7c6d91c60c069b18edc949876fb6f8f6514a017f3584e5d836e&=&format=webp&quality=lossless"
     },
     "types": {
       "general": {
         "label": "General Support",
         "description": "General inquiries and help",
-        "emoji": "<:Pink_faq:1499985459030528132>",
-        "welcome_title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Ticket: General Support___",
-        "welcome_description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:recolored_arrowmove:1499985868541133038>  Please fill out the following format to receive assistance:",
+        "emoji": "<a:BlueButterflies:1497980075008852028>",
+        "welcome_title": "<a:BlueButterflies:1497980075008852028>  _Greenville Roleplay Legacy_ - ___Ticket: General Support___",
+        "welcome_description": "> <a:BlueButterflies:1497980075008852028>  Welcome {user} to your support ticket. \n> <a:BlueButterflies:1497980075008852028>  Please fill out the following format to receive assistance:",
         "template": "Username:\nQuestion/Concern\nDate:"
       },
       "civilian": {
         "label": "Civilian Report",
         "description": "Report a civilian member",
-        "emoji": "<:blue_profile:1499985529410818149>",
-        "welcome_title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Ticket: Civilian Report___",
-        "welcome_description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:recolored_arrowmove:1499985868541133038>  Please fill out the following format to receive assistance:",
+        "emoji": "<a:BlueButterflies:1497980075008852028>",
+        "welcome_title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Ticket: Civilian Report___",
+        "welcome_description": "> <a:BlueButterflies:1497980075008852028>  Welcome {user} to your support ticket. \n> <a:BlueButterflies:1497980075008852028>  Please fill out the following format to receive assistance:",
         "template": "Username:\nQuestion/Concern\nCivilian Reporting:\nDate:"
       },
       "staff": {
         "label": "Staff Report",
         "description": "Report a staff member",
-        "emoji": "<:blue_profile:1499985529410818149>",
-        "welcome_title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Ticket: Staff Report___",
-        "welcome_description": "> <a:recolored_arrowmove:1499985868541133038>  Welcome {user} to your support ticket. \n> <a:recolored_arrowmove:1499985868541133038>  Please fill out the following format to receive assistance:",
+        "emoji": "<a:BlueButterflies:1497980075008852028>",
+        "welcome_title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Legacy_ - ___Ticket: Staff Report___",
+        "welcome_description": "> <a:BlueButterflies:1497980075008852028>  Welcome {user} to your support ticket. \n> <a:BlueButterflies:1497980075008852028>  Please fill out the following format to receive assistance:",
         "template": "Username:\nQuestion/Concern\nStaff Reporting:\nDate:"
       }
     }
   },
   "vanity": {
-    "code": "/GVRY",
+    "code": "/GVRL",
     "role_id": "1452886857267417245",
     "log_channel_id": "1452886966604398727",
     "remove_role_on_remove": true,
-    "embed_title": "<a:recolored_GVRY_Flying_Star:1499589288344686592> Greenville Roleplay Yowe - Appreciation! <a:recolored_GVRY_Flying_Star:1499589288344686592>",
-    "embed_description": "> <a:recolored_arrowmove:1499985868541133038>  We thank {user} for applying the `{code}` vanity code within your discord status! Due to your **endless** support for our community we have rewarded you with the {role} role!"
+    "embed_title": "<a:BlueButterflies:1497980075008852028> Greenville Roleplay Legacy - Appreciation! <a:BlueButterflies:1497980075008852028>",
+    "embed_description": "> <a:BlueButterflies:1497980075008852028>  We thank {user} for applying the `{code}` vanity code within your discord status! Due to your **endless** support for our community we have rewarded you with the {role} role!"
   },
   "api": {
     "port": 8080
   },
   "emoji_vars": {
-    "arrow": "<a:recolored_arrowmove:1499985868541133038>",
-    "stars": "<a:recolored_recolored_red_stars:1499985951894802553>",
-    "pfp": "<:GVRY_pfp:1500241318465638601>",
-    "tick": "<:tick:1500534096286453782>",
-    "reply": "<:blue_replyarrow:1499985515527667883>",
-    "profile": "<:blue_profile:1499985529410818149>",
-    "faq": "<:Pink_faq:1499985459030528132>"
+    "arrow": "<a:BlueButterflies:1497980075008852028>",
+    "stars": "<a:BlueButterflies:1497980075008852028>",
+    "pfp": "<:GVRL:1498384697963712724>",
+    "tick": "<a:BlueButterflies:1497980075008852028>",
+    "reply": "<a:BlueButterflies:1497980075008852028>",
+    "profile": "<a:BlueButterflies:1497980075008852028>",
+    "faq": "<a:BlueButterflies:1497980075008852028>"
   },
   "embeds": {
     "startup": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Session Startup___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} is now hosting a **Greenville Roleplay Yowe, Roleplay Session**. Before attending, please ensure you have thoroughly read and understand our Server Material, which contains all essential **Session Rules**. For this session to officially begin, we require **__{required}+__** reactions before preparation.\n\n **Before Attending: Essential Checklist** \n> <a:recolored_arrowmove:1499985868541133038>  Please confirm you are not using any Banned Vehicles unless you possess the appropriate roles. \n> <a:recolored_recolored_red_stars:1499985951894802553> **Verify your Roblox account** with **Greenville Roleplay Yowe Bot** to prevent an unintended kick during the checkpoint process. \n> <a:recolored_arrowmove:1499985868541133038>  Ensure all of your vehicles are registered by using the command `/register` in the dedicated Bot-Inputs Channel.",
-      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1500378543404744744/Server_Material-modified.png?ex=69f837e8&is=69f6e668&hm=7ddbde3fff635fa1a4526d225c3995ab349948655f01663dc187c19f2b997576&animated=true"
-    },
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Session Startup___",
+      "description": "> <a:BlueButterflies:1497980075008852028>  {user} is now hosting a **Greenville Roleplay Yowe, Roleplay Session**. Before attending, please ensure you have thoroughly read and understand our Server Material, which contains all essential **Session Rules**. For this session to officially begin, we require **__{required}+__** reactions before preparation.\n\n **Before Attending: Essential Checklist** \n> <a:BlueButterflies:1497980075008852028>  Please confirm you are not using any Banned Vehicles unless you possess the appropriate roles. \n> <a:BlueButterflies:1497980075008852028> **Verify your Roblox account** with **Greenville Roleplay Yowe Bot** to prevent an unintended kick during the checkpoint process. \n> <a:BlueButterflies:1497980075008852028>  Ensure all of your vehicles are registered by using the command `/register` in the dedicated Bot-Inputs Channel.",
+      "image_url": "https://media.discordapp.net/attachments/1503016648620245052/1503017052569600000/IMG_2213.png?ex=6a047436&is=6a0322b6&hm=3321724a70461f233fa5d255abdd282d1273aa9b967f08ed06fee4253625a1bb&=&format=webp&quality=lossless},
     "setup": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Roleplay Preparation:___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} is currently setting up their roleplay experience. \n > <a:recolored_arrowmove:1499985868541133038>  Please be patient while the **Staff Team** completes the session setup for a **high-quality roleplay experience.**",
-      "image_url": ""
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Roleplay Preparation:___",
+      "description": "> <a:BlueButterflies:1497980075008852028>  {user} is currently setting up their roleplay experience. \n > <a:BlueButterflies:1497980075008852028>  Please be patient while the **Staff Team** completes the session setup for a **high-quality roleplay experience.**",
+      "image_url": "" https://media.discordapp.net/attachments/1503016648620245052/1503016827654115618/IMG_1984.png?ex=6a047400&is=6a032280&hm=771566a28fa1b90eb2f64d45e876bf2a1f5b703015e3db29e95b5b24bfc23c3b&=&format=webp&quality=lossless
     },
     "early_access": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Early Access___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} has officially released **Early Access** for their roleplay experience. Members with access to the link may now start joining. Upon joining, **please park your vehicle, and wait for further instructions** from the host. \n\n > <a:recolored_arrowmove:1499985868541133038>  Sharing this link with anyone who doesn't have permission will result in immediate **moderation(s).**",
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Early Access___",
+      "description": "<a:BlueButterflies:1497980075008852028>  {user} has officially released **Early Access** for their roleplay experience. Members with access to the link may now start joining. Upon joining, **please park your vehicle, and wait for further instructions** from the host. \n\n > <a:BlueButterflies:1497980075008852028>  Sharing this link with anyone who doesn't have permission will result in immediate **moderation(s).**",
       "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1500378541697536055/Server_Material-2-modified.png?ex=69f837e8&is=69f6e668&hm=f48a5c5397b4ae7520c94e7814a13b3c59d781643a0e081f13c26c15f7563044&animated=true"
     },
     "release": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Session Released___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} has officially released their **Roleplay Session**. \n> <a:recolored_arrowmove:1499985868541133038>  Before joining, please ensure you've reviewed our Banned Vehicle List and follow all session guidelines. \n\n **Roleplay Information:** \n\n> <a:recolored_arrowmove:1499985868541133038>  __Session Host:__ {user}\n> <a:recolored_arrowmove:1499985868541133038>  __FRP Speed Limit:__ {frp_speeds}\n> <a:recolored_arrowmove:1499985868541133038>  __Peacetime:__ {peacetime}\n> <a:recolored_arrowmove:1499985868541133038>  __LEO:__ {leo} \n<:blue_replyarrow:1499985515527667883>  Failure to abide session rules may result in moderation(s).",
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Session Released___",
+      "description": "> <a:BlueButterflies:1497980075008852028>  {user} has officially released their **Roleplay Session**. \n> <a:BlueButterflies:1497980075008852028>  Before joining, please ensure you've reviewed our Banned Vehicle List and follow all session guidelines. \n\n **Roleplay Information:** \n\n> <a:BlueButterflies:1497980075008852028>  __Session Host:__ {user}\n> <a:BlueButterflies:1497980075008852028>  __FRP Speed Limit:__ {frp_speeds}\n>  __Peacetime:__ {peacetime}\n> <a:BlueButterflies:1497980075008852028>  __LEO:__ {leo} \n<a:BlueButterflies:1497980075008852028>  Failure to abide session rules may result in moderation(s).",
       "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1500378542113034342/Server_Material-3-modified.png?ex=69f837e8&is=69f6e668&hm=9abb6f9134955c5b7abe206c0ea09cc9d707955d7394c4a278d212736573e734&animated=true"
     },
     "reinvites_1": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Re-Invites___",
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Re-Invites___",
       "description": "We require **__{required}+__** reactions for Re-Invites to be sent out, react below!",
-      "image_url": ""
+      "image_url": "" https://media.discordapp.net/attachments/1503016648620245052/1503016827654115618/IMG_1984.png?ex=6a047400&is=6a032280&hm=771566a28fa1b90eb2f64d45e876bf2a1f5b703015e3db29e95b5b24bfc23c3b&=&format=webp&quality=lossless
     },
     "reinvites_2": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Re-Invites___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} has released **Re-Invites** for this experience. Members who were previously waiting or unable to join may now enter the session. \n\n **Roleplay Information:** \n > <a:recolored_arrowmove:1499985868541133038>  __Session Host__: {user} \n > <a:recolored_arrowmove:1499985868541133038>  __FRP Speed Limit:__ {frp_speeds}\n > <a:recolored_arrowmove:1499985868541133038>  __Peacetime:__ {peacetime}\n > <a:recolored_arrowmove:1499985868541133038>  __LEO:__ {leo} \n  **If you were previously kicked, you may not rejoin unless instructed otherwise by** {user}",
-      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1500378542905491576/Server_Material-5-modified.png?ex=69f837e8&is=69f6e668&hm=112d015e69e8de9f58e6b45262bab20981c13f64a02cbc4b1ecfe6c2070f31f8&animated=true"
-    },
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Re-Invites___",
+      "description": "> <a:BlueButterflies:1497980075008852028>  {user} has released **Re-Invites** for this experience. Members who were previously waiting or unable to join may now enter the session. \n\n **Roleplay Information:** \n > <a:BlueButterflies:1497980075008852028>  __Session Host__: {user} \n > <a:BlueButterflies:1497980075008852028>  __FRP Speed Limit:__ {frp_speeds}\n > <a:BlueButterflies:1497980075008852028>  __Peacetime:__ {peacetime}\n > <a:BlueButterflies:1497980075008852028>  __LEO:__ {leo} \n  **If you were previously kicked, you may not rejoin unless instructed otherwise by** {user}",
+      "image_url": "https://media.discordapp.net/attachments/1503016648620245052/1503016827654115618/IMG_1984.png?ex=6a047400&is=6a032280&hm=771566a28fa1b90eb2f64d45e876bf2a1f5b703015e3db29e95b5b24bfc23c3b&=&format=webp&quality=lossless
     "cohost": {
-      "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Session Co-Host___",
-      "description": "> <a:recolored_arrowmove:1499985868541133038>  {user} is now **co-hosting** this roleplay session. \n\n> <a:recolored_arrowmove:1499985868541133038>  If the host becomes busy, please refer to {user} for any assistance or support required during the session!",
-      "image_url": ""
+      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Session Co-Host___",
+      "description": "> <a:BlueButterflies:1497980075008852028>  {user} is now **co-hosting** this roleplay session. \n\n> <a:BlueButterflies:1497980075008852028>  If the host becomes busy, please refer to {user} for any assistance or support required during the session!",
+      "image_url": "" 
     },
     "welcome": {
-      "title": "{stars} _Greenville Roleplay Yowe_ - ___Welcome!___ {stars}",
-      "description": "> {arrow} **__Welcome to Greenville Roleplay Yowe__** {user}!\nPlease verify in <#1474542386649632911> to gain **access to all channels,** go over the rules and join your first **__Greenville Roleplay Yowe session!__** {stars}\n\n> {arrow} Running into trouble? Create a **ticket in <#1474542100145246299>** and wait for a **staff member** to assist you. {stars}",
-      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1499971537720184924/Server_Material-11-modified.png"
+      "title": "{stars} _Greenville Roleplay Legacy_ - ___Welcome!___ {stars}",
+      "description": "> {arrow} **__Welcome to Greenville Roleplay Legacy__** {user}!\nPlease verify in <#1502684126841409624> to gain **access to all channels,** go over the rules and join your first **__Greenville Roleplay Legacy session!__** {stars}\n\n> {arrow} Running into trouble? Create a **ticket in <1502803142444716052>** and wait for a **staff member** to assist you. {stars}",
+      "image_url": "https://images-ext-1.discordapp.net/external/vRJDtVR4TNNHB3_bwOQLJWFahTAUX983-FJ0Dbniw_E/https/www.image2url.com/r2/default/images/1778442737590-1a210443-9d79-4b07-83b4-3ec89aa5f27f.png?format=webp&quality=lossless&width=1391&height=856"
     },
     "supervisor": {
       "title": "<:GVRY_pfp:1500241318465638601>  _Greenville Roleplay Yowe_ - ___Session Supervisor___",
