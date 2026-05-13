@@ -50,7 +50,7 @@ class Startup(commands.Cog):
 
         await ctx.response.send_message(" Startup initiated.", ephemeral=True)
         message = await ctx.channel.send(content="@everyone", embed=embed, allowed_mentions=discord.AllowedMentions(everyone=True))
-        await message.add_reaction("<:tick:1500534096286453782>")
+        await message.add_reaction("<:pinkcheckmark:1502780778449342494>")
 
         self.bot.session_states[ctx.channel_id] = {
             'message_id': message.id,
@@ -70,7 +70,7 @@ class Startup(commands.Cog):
             return
 
         emoji_str = str(payload.emoji)
-        target_emoji = "<:tick:1500534096286453782>"
+        target_emoji = "<:pinkcheckmark:1502780778449342494>"
 
         if hasattr(self.bot, 'session_states'):
             for state in self.bot.session_states.values():
@@ -114,7 +114,7 @@ class Startup(commands.Cog):
 
     @commands.Cog.listener()
     async def on_raw_reaction_remove(self, payload):
-        target_emoji = "<:tick:1500534096286453782>"
+        target_emoji = "<:pinkcheckmark:1502780778449342494>"
         if hasattr(self.bot, 'session_states'):
             for state in self.bot.session_states.values():
                 if payload.message_id == state['message_id'] and str(payload.emoji) == target_emoji:
