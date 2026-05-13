@@ -120,28 +120,23 @@
     "faq": "<a:BlueButterflies:1497980075008852028>"
    },
    "embeds": {
-     "startup" : {
-     "title" : "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Session Startup___" ,
-     "description" : "> <a:BlueButterflies:1497980075008852028>  {user} is currently setting up their roleplay experience. \n > <a:BlueButterflies:1497980075008852028>  Please be patient while the **Staff Team** completes the session setup for a **high-quality roleplay experience.**" ,
-     "image_url" : ""
-    },
-    "early_access": {
-      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Early Access___",
-      "description": "<a:BlueButterflies:1497980075008852028>  {user} has officially released **Early Access** for their roleplay experience. Members with access to the link may now start joining. Upon joining, **please park your vehicle, and wait for further instructions** from the host. \n\n > <a:BlueButterflies:1497980075008852028>  Sharing this link with anyone who doesn't have permission will result in immediate **moderation(s).**",
-      "image_url": "https://media.discordapp.net/attachments/1461887629456052417/1503918665160982548/IMG_2230.png?ex=6a0518e7&is=6a03c767&hm=d43537ad0f28f17cceaf4b09afadefe5727b2ae120dffbd5ca83147d683dc6cb&=&format=webp&quality=lossless"
-    },
-    "release": {
-      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Session Released___",
-      "description": "> <a:BlueButterflies:1497980075008852028>  {user} has officially released their **Roleplay Session**. \n> <a:BlueButterflies:1497980075008852028>  Before joining, please ensure you've reviewed our Banned Vehicle List and follow all session guidelines. \n\n **Roleplay Information:** \n\n> <a:BlueButterflies:1497980075008852028>  __Session Host:__ {user}\n> <a:BlueButterflies:1497980075008852028>  __FRP Speed Limit:__ {frp_speeds}\n>  __Peacetime:__ {peacetime}\n> <a:BlueButterflies:1497980075008852028>  __LEO:__ {leo} \n<a:BlueButterflies:1497980075008852028>  Failure to abide session rules may result in moderation(s).",
-      "image_url": "https://media.discordapp.net/attachments/1483370284214915154/1500378542113034342/Server_Material-3-modified.png?ex=69f837e8&is=69f6e668&hm=9abb6f9134955c5b7abe206c0ea09cc9d707955d7394c4a278d212736573e734&animated=true"
-    },
-    "reinvites_1": {
-      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Re-Invites___",
-      "description": "We require **__{required}+__** reactions for Re-Invites to be sent out, react below!",
-      "image_url": "https://media.discordapp.net/attachments/1503016648620245052/1503016827654115618/IMG_1984.png?ex=6a047400&is=6a032280&hm=771566a28fa1b90eb2f64d45e876bf2a1f5b703015e3db29e95b5b24bfc23c3b&=&format=webp&quality=lossless"
-    },
-    "reinvites_2": {
-      "title": "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Re-Invites___",
+    "startup" : {
+      "title" : "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Session Startup___" ,
+      "description" : "> <a:BlueButterflies:1497980075008852028>  {user} is currently setting up their roleplay experience. \n > <a:BlueButterflies:1497980075008852028>  Please be patient while the **Staff Team** completes the session setup for a **high-quality roleplay experience.**" ,
+      "image_url" : ""
+    } ,
+    "reinvites" : {
+      "title" : "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Session Reinvites___" ,
+      "description" : "> <a:BlueButterflies:1497980075008852028>  The session is now **open** for those who were **previously kicked.** \n > <a:BlueButterflies:1497980075008852028>  Please ensure you follow all **rules and regulations** upon re-entry." ,
+      "image_url" : "https://media.discordapp.net/attachments/1503016648620245052/1503016827654115618/IMG_1984.png?ex=6a047400&is=6a032280&hm=771566a28fa1b90eb2f64d45e876bf2a1f5b703015e3db29e95b5b24bfc23c3b&=&format=webp&quality=lossless"
+    } ,
+    "reinvites_2" : {
+      "title" : "<:GVRL:1498384697963712724>  _Greenville Roleplay Legacy_ - ___Session Reinvites___" ,
+      "description" : "> <a:BlueButterflies:1497980075008852028>  The session has reached its capacity. \n > <a:BlueButterflies:1497980075008852028>  **If you were previously kicked, you may not rejoin unless instructed otherwise by** {user}" ,
+      "image_url" : "https://media.discordapp.net/attachments/1503016648620245052/1503016827654115618/IMG_1984.png?ex=6a047400&is=6a032280&hm=771566a28fa1b90eb2f64d45e876bf2a1f5b703015e3db29e95b5b24bfc23c3b&=&format=webp&quality=lossless"
+    } ,
+    "cohost" : {
+      "title" : "<:GVRL:1498384697963712724> _Greenville Roleplay Legacy_ - ___Session Co-Host___" ,
       "description": "> <a:BlueButterflies:1497980075008852028>  {user} has released **Re-Invites** for this experience. Members who were previously waiting or unable to join may now enter the session. \n\n **Roleplay Information:** \n > <a:BlueButterflies:1497980075008852028>  __Session Host__: {user} \n > <a:BlueButterflies:1497980075008852028>  __FRP Speed Limit:__ {frp_speeds}\n > <a:BlueButterflies:1497980075008852028>  __Peacetime:__ {peacetime}\n > <a:BlueButterflies:1497980075008852028>  __LEO:__ {leo} \n  **If you were previously kicked, you may not rejoin unless instructed otherwise by** {user}",
       "image_url": "https://media.discordapp.net/attachments/1503016648620245052/1503016827654115618/IMG_1984.png?ex=6a047400&is=6a032280&hm=771566a28fa1b90eb2f64d45e876bf2a1f5b703015e3db29e95b5b24bfc23c3b&=&format=webp&quality=lossless"
     "cohost": {
