@@ -219,7 +219,7 @@
     },
     "infraction_issued": {
       "title": "{stars} _Greenville Roleplay Legacy_ - ___Infraction Issued___ {stars}",
-        "description": "> {arrow} Greenville Roleplay Legacy has hit {count} Members! Thank you all for being a part of the community {stars}",
+       "description": "> {arrow} Greenville Roleplay Legacy has hit {count} Members! Thank you all for being a part of the community {stars}",
       "image_url": ""
     },
     "strike_issued": {
